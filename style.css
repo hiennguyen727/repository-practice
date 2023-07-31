@@ -1,0 +1,14 @@
+body{flex-direction: center;
+flex: auto;
+}
+
+
+.box1{
+background: pink;
+height: 100px;
+width: 500px;
+
+}
+
+
+
